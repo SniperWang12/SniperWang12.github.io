@@ -1,9 +1,14 @@
-## Welcome to 王斌 Pages
+## Welcome to wangbin's homepage
 
-## [第一个自定义界面](./index2.html) `相对路径文件`
+## [first page](./index2.html) `relative path`
 
-## 图片上传 ☞：
+## Image upload & show ☞：
 
-玩游戏的小伙伴：`图片使用的是相对路径`  
+**The friends in group named PLAY GAMES：**`relative path`  
 ![成员 微信截图](./images/playgames.png)
 
+### [Music Collection](./pages/Music Collection.md)
+
+### [Movie Collection](./pages/Movie Collection.md)
+
+### Recent Target
