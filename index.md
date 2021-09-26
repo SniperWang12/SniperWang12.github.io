@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### first page
-第一个自定义界面(https://github.com/SniperWang12/SniperWang12.github.io/blob/main/index2.html)
+第一个自定义界面[editor on GitHub](https://github.com/SniperWang12/SniperWang12.github.io/edit/main/index2.html)
 
 ### Support or Contact
 
